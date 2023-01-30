@@ -1,0 +1,14 @@
+QComboBox{
+    padding-left:10px;
+}
+
+QComboBox QAbstractItemView::item
+{
+    min-height:50px;
+}
+
+QWidget#centralwidget{
+background-color:#EAF0F6;
+border-radius:15px;
+border:0.5px solid #D3DDED
+}
