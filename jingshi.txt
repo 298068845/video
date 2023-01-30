@@ -1,0 +1,14 @@
+192.168.3
+
+13
+/mnt/sd/model/mobilenet_v2_fuse_preprocess.cvimodel
+/mnt/sd/ImageNet2012/classify_images.txt
+/mnt/sd/model/yolov3-416_fuse_nv21_new.cvimodel
+/mnt/sd/detection/yolov3_images.txt
+/mnt/sd/model/resnet_v2_50_new_fuse_nv21.cvimodel
+
+/mnt/sd/tcp/model/mobilenet_v2_int8.cvimodel
+/mnt/sd/tcp/ImageNet2012/classify_images.txt
+/mnt/sd/tcp/model/yolov3_int8.cvimodel
+/mnt/sd/tcp/detection/yolov3_images.txt
+/mnt/sd/tcp/model/resnet_v2_int8.cvimodel

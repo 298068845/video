@@ -1,0 +1,8 @@
+192.168.168
+
+114
+/mnt/sdcard/560_classify_test/mobilenetv2_nvt_model.bin
+/mnt/sdcard/560_classify_test/classify_images.txt
+/mnt/sdcard/560_detect_test/yolov3_nvt_model.bin
+/mnt/sdcard/560_detect_test/yolov3_images.txt
+/mnt/sdcard/560_classify_test/resnet50_v2_nvt_model.bin

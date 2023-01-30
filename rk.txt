@@ -1,0 +1,14 @@
+/usr/bin/mobilenet_v2.hw.rknn
+/userdata/model_sample/classifier/
+/usr/bin/yolov3_416_val17.hw.rknn
+/userdata/model_sample/object_detection/samples/
+/usr/bin/resnet_v2_50.hw.rknn
+
+192.168.0
+
+128
+/userdata/mobilenet_v2.rknn
+/userdata/classifier_sample/
+/userdata/yolov3_416.rknn
+/userdata/object_sample/
+/userdata/resnet50_v2.rknn

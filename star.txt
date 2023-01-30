@@ -1,0 +1,11 @@
+/mnt/aitest_data/mobilenet_v2_fixed.sim_sgsimg.img
+/mnt/aitest_data/ILSVRC2012_img_val_1000
+/mnt/aitest_data/caffe_yolo_v3_darknet_416_fixed.sim_sgsimg.img
+/mnt/aitest_data/coco_top_1k
+/mnt/aitest_data/resnet_v2_50_fixed.sim_sgsimg.img
+
+/mnt/tcp/sd/model/mobilenet_v2_fixed.sim_sgsimg.img
+/mnt/tcp/sd/ImageNet2012
+/mnt/tcp/sd/model/caffe_yolo_v3_darknet_416_fixed.sim_sgsimg.img
+/mnt/tcp/sd/detection
+/mnt/tcp/sd/model/resnet_v2_50_fixed.sim_sgsimg.img

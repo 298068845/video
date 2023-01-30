@@ -1,0 +1,5 @@
+/mnt/classify_detect/classify_detect/model/mobilenet_v2_magik.pb.bin
+/mnt/classify_detect/classify_detect/classify_images.txt
+/mnt/classify_detect/classify_detect/model/yolov3_magik.pb.bin
+/mnt/classify_detect/classify_detect/yolov3_images.txt
+/mnt/classify_detect/classify_detect/model/resnet50_v2_magik.bin

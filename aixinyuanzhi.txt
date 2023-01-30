@@ -1,0 +1,5 @@
+/mnt/aitest_data/mobilenetv2.joint
+/mnt/aitest_data/ILSVRC2012_img_val_1000
+/mnt/aitest_data/darknet-yolov3.joint
+/mnt/aitest_data/coco_top_1k
+/mnt/aitest_data/resnetv2_256_minmax_nhwc.joint
